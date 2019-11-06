@@ -1,6 +1,13 @@
-.container{
-    text-align:center;
-}
+h1{
+    font-size:55px;
+    color:#800020;
+    font-family: 'Liu Jian Mao Cao', cursive;
+    text-align: center;
+} 
 body{
-    background:pink;
-}
+     background-color:orangered;
+ }
+ h3{font-size:15px;
+    color:plum;
+    font-family: 'Pangolin', cursive;
+    }
